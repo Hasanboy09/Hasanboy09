@@ -6,6 +6,8 @@
 - 💬 Ask me about **Python, frameworks, Django, PostgreSQL**
 
 - 📫 How to reach me: **sanoqulovhasan113@gmail.com**
+![Snake](https://profile-readme-generator.com/assets/snake.svg)
+## 🌐 Socials:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
