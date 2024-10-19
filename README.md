@@ -5,16 +5,20 @@
 
 - 💬 Ask me about **Python, frameworks, Django, PostgreSQL**
 
-- 📫 How to reach me: **sanoqulovhasan113@gmail.com**![Snake](https://profile-readme-generator.com/assets/snake.svg)
+- 📫 How to reach me: **sanoqulovhasan113@gmail.com** ![Snake](https://profile-readme-generator.com/assets/snake.svg)
+
 ## 🌐 Socials:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://instagram.com/@hasan_sanoqulov" target="blank">
+  <a href="https://instagram.com/@hasan_sanoqulov" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@hasan_sanoqulov" height="30" width="40" />
   </a>
-  <a href="https://www.leetcode.com/hasansanoqulov" target="blank">
+  <a href="https://www.leetcode.com/hasansanoqulov" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hasansanoqulov" height="30" width="40" />
+  </a>
+  <a href="https://t.me/@Sanoqulov_Hasan" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="sanoqulovhasan" height="30" width="40" />
   </a>
 </p>
 
