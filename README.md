@@ -18,8 +18,9 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hasansanoqulov" height="30" width="40" />
   </a>
 <a href="https://t.me/Sanoqulov_Hasan" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" alt="telegram" height="30" width="40" />
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="telegram" height="30" width="40" />
 </a>
+
 
 </p>
 
