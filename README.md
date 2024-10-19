@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanoqulov Hasan Otabekovich</h1>
-<h3 align="center">A passionate backend developer from Uzbekistan</h3>
+<h3 align="center">A passionate python backend developer from Uzbekistan</h3>
 
 - 🌱 I’m currently learning **Python, frameworks**
 
